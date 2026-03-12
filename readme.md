@@ -20,12 +20,12 @@ A proposta é reunir estudantes interessados em desenvolvimento de software para
 
 ```mermaid
 flowchart TB
-    A[👨‍🎓 Alunos interessados] --> B[📚 Nivelamento Técnico]
-    B --> C[🛠️ Projeto Base Funcional]
-    C --> D[👥 Formação das Equipes]
-    D --> E[💻 Desenvolvimento por Funcionalidades]
-    E --> F[🔗 Integração do Sistema]
-    F --> G[🎯 Demonstração e Evolução do Projeto]
+    A[Alunos interessados] --> B[Nivelamento Técnico]
+    B --> C[Projeto Base Funcional]
+    C --> D[Formação das Equipes]
+    D --> E[Desenvolvimento por Funcionalidades]
+    E --> F[Integração do Sistema]
+    F --> G[Demonstração e Evolução do Projeto]
 ```
 
 ---
@@ -82,12 +82,13 @@ Essas tecnologias serão utilizadas para construir aplicações completas, desde
 
 ```mermaid
 flowchart LR
-    A[🎨 Frontend Web] --> B[⚙️ API Backend]
-    B --> C[(🐘 PostgreSQL)]
-    B --> D[(🍃 MongoDB)]
-    B --> E[📦 Serviços de Negócio]
+    A[Frontend Web] --> B[API Backend]
+    B --> C[(PostgreSQL)]
+    B --> D[(MongoDB)]
+    B --> E[Serviços de Negócio]
 
-    subgraph 🐳 Ambiente Docker
+    subgraph Docker
+        direction TB
         A
         B
         C
@@ -154,16 +155,16 @@ Essa organização busca simular estruturas comuns em equipes de desenvolvimento
 
 ```mermaid
 flowchart TB
-    A[📋 Escolha da tarefa] --> B[🌿 Criar Branch]
-    B --> C[💻 Desenvolver Funcionalidade]
-    C --> D[📝 Commit no Git]
-    D --> E[📤 Push para o Repositório]
-    E --> F[🔃 Abrir Pull Request]
-    F --> G[👀 Code Review]
-    G --> H{✅ Aprovado?}
-    H -- ❌ Não --> C
-    H -- ✅ Sim --> I[🔀 Merge na Branch Principal]
-    I --> J[🚀 Integração no Sistema]
+    A[Escolha da tarefa] --> B[Criar Branch]
+    B --> C[Desenvolver Funcionalidade]
+    C --> D[Commit no Git]
+    D --> E[Push para o Repositório]
+    E --> F[Abrir Pull Request]
+    F --> G[Code Review]
+    G --> H{Aprovado?}
+    H -- Não --> C
+    H -- Sim --> I[Merge na Branch Principal]
+    I --> J[Integração no Sistema]
 ```
 
 ---
