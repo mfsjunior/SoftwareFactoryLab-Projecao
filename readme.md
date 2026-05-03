@@ -40,4 +40,4 @@
 
 ---
 
-> Ultima atualizacao: Maio de 2026
+> Ultima atualizacao: 02 Maio de 2026
