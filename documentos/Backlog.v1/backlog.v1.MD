@@ -5,7 +5,7 @@ Foco na interface do usuário e experiência mobile.
 
 | Atividade                                                                  | Prioridade | Nível Sugerido | Status     |
 | :------------------------------------------------------------------------- | :--------- | :------------- | :--------- |
-| **Estrutura Inicial:** Configuração do projeto Angular e Mobile            | **P0**     | Senior         | Para Fazer |
+| **Estrutura Inicial:** Configuração do projeto Next e Mobile            | **P0**     | Senior         | Para Fazer |
 | **Autenticação:** Telas de Cadastro, Login (com CAPTCHA) e Recuperação     | **P0**     | Pleno          | Para Fazer |
 | **Módulo Aluno:** Dashboard, Calendário de Treinos e Registro de Medidas   | **P0**     | Pleno          | Para Fazer |
 | **Mapa da Dor:** Interface interativa do diagrama corporal (frente/costas) | **P0**     | Senior         | Para Fazer |
