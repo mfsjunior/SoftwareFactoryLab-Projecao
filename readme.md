@@ -14,7 +14,7 @@
 
 | # | Artefato | Versao |
 |---|----------|--------|
-| 1 | Levantamento de Requisitos | v3 |
+| 1 | Levantamento de Requisitos | v2 |
 | 2 | Diagrama de Sequência | v2 |
 | 3 | Diagrama de Classes | v1 |
 | 4 | Diagrama de Caso de Uso | v1 |
